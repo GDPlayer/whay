@@ -19,4 +19,4 @@ class Whay {
   }
 }
 
-Scratch.extensions.register(new whay());
+Scratch.extensions.register(new Whay());
