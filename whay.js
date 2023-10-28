@@ -4,6 +4,7 @@ class Whay {
     return {
       id: 'randomtruefalse',
       name: 'whay',
+      color1: "#729bb5",
       blocks: [
         {
           opcode: 'randomtruefalse',
