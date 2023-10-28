@@ -6,7 +6,7 @@ class Whay {
       name: 'whay',
       blocks: [
         {
-          opcode: 'whay',
+          opcode: 'randomtruefalse',
           blockType: Scratch.BlockType.REPORTER,
           text: 'whay'
         }
@@ -14,7 +14,7 @@ class Whay {
     };
   }
 
-  hello() {
+  randomtruefalse() {
     return [false,true][Math.round(Math.random())]
   }
 }
