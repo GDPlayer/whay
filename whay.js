@@ -27,7 +27,7 @@ class Whay {
       ],
       menus: {
         RANDOMTYPE: {
-          acceptReporters: false,
+          acceptReporters: true,
           items: ["ascii","uppercase","lowercase","symbols"]
         }
       }
