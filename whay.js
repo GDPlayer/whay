@@ -8,7 +8,7 @@ class Whay {
       blocks: [
         {
           opcode: 'randomtruefalse',
-          blockType: Scratch.BlockType.REPORTER,
+          blockType: Scratch.BlockType.BOOLEAN,
           text: 'whay'
         }
       ]
